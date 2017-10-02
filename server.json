@@ -1,0 +1,18 @@
+{
+    "name": "Rachio",
+    "docs": "https://rachio.readme.io/docs/getting-started",
+    "type": "python",
+    "executable": "polyRachio.py",
+    "description": "Add control of Rachio Irrigation controllers to the ISY994.",
+    "notice": "\"Rachio\" is trademarked., see https://rachio.readme.io/docs/getting-started for more information. This Node Server is neither developed by nor endorsed by Rachio, Universal Devices, Brian Feeney, or any other company responsible for the manufacture, development, or distribution of Rachio irrigation controllers.",
+    "credits": [
+        {
+            "title": "polyRachio: A Python library for Rachio Irrigation Controllers",
+            "author": "Brian Feeney",
+            "version": "0.0.1",
+            "date": "September 23, 2017",
+            "source": "https://github.com/fahrer16/rachio-nodeserver",
+            "license": "https://github.com/fahrer16/rachio-nodeserver/blob/master/LICENSE"
+        }
+    ]
+}
